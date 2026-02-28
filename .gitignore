@@ -99,7 +99,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -143,7 +142,6 @@ CLAUDE.md
 .idea/
 
 # VS Code (keep settings.json for Python config)
-.vscode/*
 !.vscode/settings.json
 
 # MacOS
@@ -180,3 +178,5 @@ test_data/
 
 
 
+config.bat
+node_modules
